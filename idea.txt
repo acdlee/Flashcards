@@ -1,0 +1,33 @@
+the idea for the homepage is a pixel me sitting on top of
+the intro card
+the background is some cool gradient or a nice color
+-> in dark mode
+in light mode it can be nice and simple
+
+we can have things floating around in a bubble that you pop when you click
+
+
+OMG i have good idea:
+
+basically imagine the theme is underwater. So my pixel guy now has a fishing helment
+on (reference to runescape) and the colors and of texts and the fonts are changed
+to reflect the theme.
+
+the super fun part is you essentially will have a slideshow of the sites, 
+but in the form of bubbles floating towards the top.
+in the bubble is a link to different pages on the site or projects.
+
+there needs to be a "no bs" button for a simple site style
+https://stackoverflow.com/questions/8796107/how-to-make-changeable-themes-using-css-and-javascript
+^theme switcher great demo
+
+the goal here is to create this without editing html. on theme with
+csszengarden.
+
+
+
+special event at the bottom where its like basically an easter egg
+the easter egg has some kind of input (that you have to learn how to keep private)
+and with that input if they get it correct it'll link to a secret page (that you
+also keep hidden) that talks about runescape and maybe links your channel >.>
+
