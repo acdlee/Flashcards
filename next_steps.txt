@@ -1,0 +1,6 @@
+go read the bubble documents you have on your bubble_animation folder. the next_steps text file.
+
+that's a big list of stuff to do.
+
+after you finish that stuff, you can come back here and use what you learned to achieve the
+desired appearence.
